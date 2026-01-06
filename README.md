@@ -8,7 +8,7 @@ Currently crafting full-stack experiences with React, Next.js, and TypeScript, w
 
 🧠 Competitive Programming : strong grip on Data Structures, Algorithms, and Problem Solving.
 
-🛠️ System Design & Architecture — interested in scalable APIs, DB design, and distributed systems.
+🛠️ System Design & Architecture : interested in scalable APIs, DB design, and distributed systems.
 
 💻 Tech Stack
 Frontend: React, Next.js, Tailwind CSS, ShadCN UI
